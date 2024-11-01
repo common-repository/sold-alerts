@@ -1,0 +1,14 @@
+[
+    {
+        "name": "eightb/home_plugin_1/client",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "git@cheap:/wordpress/plugins/eightb/home_plugin_1/client.git",
+            "reference": "master"
+        },
+        "type": "library",
+        "installation-source": "source"
+    }
+]
